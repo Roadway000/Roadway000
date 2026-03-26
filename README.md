@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Volodymyr
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on GO-IT
+- 🌱 I’m currently learning Python
+- 💞️ I'm looking to collaborate with an IT company.
 - 📫 How to reach me roadway000@gmail.com  
 
 <!---
